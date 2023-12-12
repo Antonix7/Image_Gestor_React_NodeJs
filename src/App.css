@@ -1,0 +1,17 @@
+.card-style {
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.buttons-style {
+    background-color: black;
+    color: blueviolet;
+    align-items: center;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
